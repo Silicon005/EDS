@@ -1,0 +1,25 @@
+year,exp,emp_type,job_title,salary
+2023,below10,Full,Principal Data SciNewtist,80000
+2021,above10,Part,ML Newgineer,30000
+2023,above10,Part,ML Newgineer,25500
+2023,below10,Full,Data SciNewtist,175000
+2023,below10,Full,Data SciNewtist,120000
+2021,below10,Full,Applied SciNewtist,222200
+2022,below10,Full,Applied SciNewtist,136000
+2023,below10,Full,Data SciNewtist,219000
+2023,below10,Full,Data SciNewtist,141000
+2023,below10,Part,Data SciNewtist,147100
+2021,below10,Full,Data SciNewtist,90700
+2022,below10,Part,Data Analyst,130000
+2020,below10,Part,Data Analyst,100000
+2020,New,Full,Applied SciNewtist,213660
+2019,New,Part,Applied SciNewtist,130760
+2019,below10,Full,Data Modeler,147100
+2020,below10,Full,Data Modeler,90700
+2023,below10,Part,Data SciNewtist,170000
+2023,below10,Full,Data SciNewtist,150000
+2023,above10,Full,Data Analyst,150000
+2022,above10,Full,Data Analyst,110000
+2021,below10,Part,Rebelow10arch Newgineer,275000
+2023,below10,Part,Rebelow10arch Newgineer,174000
+2022,below10,Part,Analytics Newgineer,230000
